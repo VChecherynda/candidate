@@ -4,23 +4,29 @@
     "questions": [
       {
         "key": "68fc739d2a9749928e4b6e10694ea5fa",
-        "text": "Tell me about a time when you provided exceptional customer service."
+        "text": "Tell me about a time when you provided exceptional customer service.",
+        "src": "https://weeve-bucket.s3-eu-west-1.amazonaws.com/79ac64c74ee543b39f2cc4940c70efb1/68fc739d2a9749928e4b6e10694ea5fa.webm"
       },
       {
         "key": "68fc739d2a9749928e4b6e10694ea5da",
-        "text": "How would you improve our current product or service?"
+        "text": "How would you improve our current product or service?",
+        "src":"https://weeve-bucket.s3-eu-west-1.amazonaws.com/79ac64c74ee543b39f2cc4940c70efb1/68fc739d2a9749928e4b6e10694ea5da.webm"
       },
       {
         "key": "68fc739d2a9749928e4b6e10694ea5tg",
-        "text": "Can you describe a work or school instance in which you messed up?"
+        "text": "Can you describe a work or school instance in which you messed up?",
+        "src":"https://weeve-bucket.s3-eu-west-1.amazonaws.com/79ac64c74ee543b39f2cc4940c70efb1/68fc739d2a9749928e4b6e10694ea5tg.webm"
       },
       {
         "key": "68fc739d2a9749928e4b6e10694313fb",
-        "text": "How would you improve our current product or service?"
+        "text": "How would you improve our current product or service?",
+        "src":"https://weeve-bucket.s3-eu-west-1.amazonaws.com/79ac64c74ee543b39f2cc4940c70efb1/68fc739d2a9749928e4b6e10694313fb.webm"
       },
       {
         "key": "68fc739d2a9749928e4b6e106943143s",
-        "text": "Tell me about a time when you provided exceptional customer service."
+        "text": "Tell me about a time when you provided exceptional customer service.",
+        "src":"https://weeve-bucket.s3-eu-west-1.amazonaws.com/79ac64c74ee543b39f2cc4940c70efb1/68fc739d2a9749928e4b6e106943143s.webm"
+
       }
     ]
   }
