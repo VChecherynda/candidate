@@ -1,6 +1,15 @@
 {
   "79ac64c74ee543b39f2cc4940c70efb1": {
-    "job_key": "79ac64c74ee543b39f2cc4940c70efb1",
+    "job_info": {
+      "title": "Test job name",
+      "company": {
+        "title": "Test company name",
+        "location": "Test location name",
+        "phone": 82131231231,
+        "email": "company@email.com",
+        "site": "http://youtube.com"
+      }
+    },
     "questions": [
       {
         "key": "68fc739d2a9749928e4b6e10694ea5fa",
