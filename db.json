@@ -18,10 +18,10 @@
       "title": "Test job name",
       "company": {
         "title": "Sons of Asgard",
-        "location": "Test location name",
-        "phone": 82131231231,
-        "email": "company@email.com",
-        "site": "http://youtube.com"
+        "location": "Asgard",
+        "phone": "+4509889912",
+        "email": "weAreGoingToValhala@email.com",
+        "site": "https://www.youtube.com/watch?v=LZ78tqHv0Kk"
       }
     },
     "questions": [
