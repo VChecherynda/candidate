@@ -1,5 +1,18 @@
 {
   "79ac64c74ee543b39f2cc4940c70efb1": {
+    "name": "Loki son of Farbauti",
+    "location": "Valhalla",
+    "invited": "25/09/19 at 11:00 AM",
+    "submitted": "05/10/19 at 12:45 AM",
+    "visited": "01/10/19 at 16:00 AM",
+    "rating": {
+      "reviwer": "James Taylor",
+      "number": 5
+    },
+    "status": {
+      "current": "reviewed",
+      "date": "23/02/19"
+    },
     "job_info": {
       "key": "79ac64c74ee543b39f2cc4940c70efb1",
       "title": "Test job name",
